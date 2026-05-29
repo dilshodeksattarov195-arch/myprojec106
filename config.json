@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycecrypt",
+        "uuid": 39326,
+        "checksum": "rodhyq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
